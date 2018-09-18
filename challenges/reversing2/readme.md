@@ -17,8 +17,4 @@ PPT와 아래 링크를 참고해서 PPT 안에 있는 exercise #1, #2를 풀고
 
 * No Hints
 
-### Files
-
-* No Files
-
 ## ETC
