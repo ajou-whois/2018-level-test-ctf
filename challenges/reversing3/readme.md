@@ -14,8 +14,4 @@ find the flag
 
 * No Hints
 
-### Files
-
-* No Files
-
 ## ETC
