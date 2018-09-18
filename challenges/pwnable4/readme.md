@@ -56,8 +56,4 @@ int main()
 
 * No Hints
 
-### Files
-
-* No Files
-
 ## ETC
