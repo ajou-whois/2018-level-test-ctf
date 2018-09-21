@@ -16,14 +16,58 @@
 
 ## 결과
 
-### 전체 순위
-
-준비중입니다.
-
 ### 상위 10위 그래프
 
 ![Top 10 Graph](https://github.com/ajou-whois/2018-level-test-ctf/blob/master/etc/chart.png)
 
 ## 문제
 
-준비중입니다.
+### [crypto1][https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/crypto1]
+
+### [crypto2][https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/crypto2]
+
+### [crypto3][https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/crypto3]
+
+### [crypto4][https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/crypto4]
+
+### [crypto5][https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/crypto5]
+
+### [misc1](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/misc1)
+
+### [misc2](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/misc2)
+
+### [misc3](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/misc3)
+
+### [misc4](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/misc4)
+
+### [misc5](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/misc5)
+
+### [pwnable1](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/pwnable1)
+
+### [pwnable2](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/pwnable2)
+
+### [pwnable3](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/pwnable3)
+
+### [pwnable4](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/pwnable4)
+
+### [pwnable5](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/pwnable5)
+
+### [reversing1](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/reversing1)
+
+### [reversing2](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/reversing2)
+
+### [reversing3](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/reversing3)
+
+### [reversing4](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/reversing4)
+
+### [reversing5](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/reversing5)
+
+### [web1](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/web1)
+
+### [web2](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/web2)
+
+### [web3](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/web3)
+
+### [web4](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/web4)
+
+### [web5](https://github.com/ajou-whois/2018-level-test-ctf/tree/master/challenges/web5)
